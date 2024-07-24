@@ -43,4 +43,4 @@ To view the project:
 
 - Developed by [Mansi kumari](https://github.com/Mansiiiiiiiiiiiiiiiii)
 
-This README template covers the basic information to help others understand your project and how to use it. Adjust and expand it further as needed!
+
