@@ -34,7 +34,7 @@ To view the project:
    git clone https://github.com/Mansiiiiiiiiiiiiiiiii/Amazon
    ```
    
-2. Open `index.html` in your web browser to view the product page.
+2. Open `lang.html` in your web browser to view the product page.
 
 ## Screenshots
 ![Screenshot (55)](https://github.com/user-attachments/assets/9b2efaaf-07cc-4ee0-b9f6-3a53ffe60fcb)
